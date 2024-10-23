@@ -1,0 +1,51 @@
+<SignedPaytable>
+	<Key>wwpublic1</Key>
+	<Signature>jHn1dneczUr/STl9Yjl0hrUNAFSGL4Pp2ldxvKO7P3QinSyFfFDJc3Qs6A7gYvTtXXSWlOO+CZ0+LU8v8fMmvOKteIeC1kQ+oo0Nd9rddpfoWMj/Q6eCl27+hLxg6Vql4S6e2JtHqhfblHJG8kyDH9XhBXqCNnVr0fbeKclhXKs=</Signature>
+	<Digest>AHQxTsE7VVWhGgmw73HtY9Z0qAY=</Digest>
+	<DigestedData>
+		<XMLMapping className="" gameId="EGYPTIANFORTUNESWLA">
+			<Mapping>
+				<Paytable>
+					<SchemaNode type="PaytableVariation">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.PaytableVariationWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="ComponentsDataMapping">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.ComponentsDataMappingWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="WagerInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.WagerInfoWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="ODEInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.ODEInfoWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="TriggerInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.TriggerInfoWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="DeepCopyInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.DeepCopyInfoWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="PrizeInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.PrizeInfoWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="StageTriggerInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.StageTriggerInfoWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="WagerStrategyInfo">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.paytable.WagerStrategyInfoWrapper"/>
+					</SchemaNode>
+				</Paytable>
+				<Input>
+					<SchemaNode type="ActionInput">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.input.ActionInputWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="WagerInput">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.input.WagerInputWrapper"/>
+					</SchemaNode>
+					<SchemaNode type="JSONInput">
+						<DefaultWrapper className="com.igt.gle.game.data.wrapper.input.ODEInputWrapper"/>
+					</SchemaNode>
+				</Input>
+			</Mapping>
+		</XMLMapping>
+	</DigestedData>
+</SignedPaytable>

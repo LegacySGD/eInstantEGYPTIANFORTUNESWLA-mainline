@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="EGYPTIAN FORTUNES WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="EGYPTIANFORTUNES" enableFreeSpin="Y" clientversion="1.0" gameId="300-2199-0" />
+	<GameClient name="EGYPTIAN FORTUNES WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="EGYPTIANFORTUNES" enableFreeSpin="Y" clientversion="1.0" gameId="300-2199-0" />
+	<GameClient name="EGYPTIAN FORTUNES WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="EGYPTIANFORTUNES" enableFreeSpin="Y" clientversion="1.0" gameId="300-2199-0" />
+</ClientConfig>
